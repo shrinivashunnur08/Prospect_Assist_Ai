@@ -1,4 +1,3 @@
-# Prospect_Assist_Ai
 
 # Prospect Assist AI — Team Fintech Frontiers (IDBI Innovate · PS2)
 
