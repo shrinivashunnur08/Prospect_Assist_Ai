@@ -1,0 +1,25 @@
+{
+  "model_type": "logistic",
+  "features": [
+    "income",
+    "income_stability",
+    "foir",
+    "rent_ratio",
+    "savings_rate",
+    "balance_trend",
+    "n_emis",
+    "upi_intensity",
+    "invests",
+    "commute_ratio",
+    "fuel_ratio",
+    "property_owner",
+    "cash_crunch"
+  ],
+  "trained_at": "2026-07-07T19:48:30+00:00",
+  "aucs": {
+    "home": 0.9581,
+    "pl": 0.7058,
+    "auto": 0.7656,
+    "lap": 0.752
+  }
+}
